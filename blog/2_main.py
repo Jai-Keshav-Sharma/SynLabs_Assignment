@@ -8,7 +8,7 @@ from collections import Counter
 RSS_FEED_URL = "https://www.dealnews.com/c142/Electronics/?rss=1"
 APIFY_TOKEN = os.getenv("APIFY_TOKEN")
 APIFY_ACTOR_URL = (
-    "https://api.apify.com/v2/acts/radeance~ubersuggest-scraper/run-sync?token=apify_api_ND4L1CHmhdXQeaj1X5ugaUb1Cpj2dt0KAxpo"
+    "https://api.apify.com/v2/acts/radeance~ubersuggest-scraper/run-sync?token=***"
 )
 
 # ---------------------------------------
