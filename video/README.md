@@ -40,6 +40,8 @@ This was an **engineering decision**, not a compromise in intent.
 
 ---
 
+## 📌 Notebook Link: https://colab.research.google.com/drive/1ELJjy4YAGdauBMeLTxYHjAMb1xRvWQzs?usp=sharing
+
 ## ✅ Final Outcome (What This Project Delivers)
 
 - Fully automated AI pipeline
