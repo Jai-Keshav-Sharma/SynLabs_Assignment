@@ -56,7 +56,15 @@ This was an **engineering decision**, not a compromise in intent.
 ## 🎬 Results
 
 > **Generated Videos:**  
-> *(Place generated `.mp4` files here)*
+
+https://github.com/user-attachments/assets/672c01d9-afa3-4e22-b757-5d1804a19bcf
+
+https://github.com/user-attachments/assets/e79f7392-f4e6-4019-a34a-e2e8e243eeb4
+
+
+
+
+
 
 
 
