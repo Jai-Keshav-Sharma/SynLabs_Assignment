@@ -36,7 +36,7 @@ from langgraph.graph import StateGraph
 from openai import OpenAI
 
 # Set your OpenAI key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-proj..."
 
 client = OpenAI()
 
